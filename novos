@@ -3,3 +3,5 @@
 https://tropical.jmvstream.com/stream
 #EXTINF:-1 group-title="Radios Roraima" tvg-logo="https://img.radios.com.br/radio/lg/radio98_1551111060.jpg",Rádio 93 FM
 https://5a2b083e9f360.streamlock.net/93fmrr/93fmrr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radios Roraima" tvg-logo="https://img.radios.com.br/radio/lg/radio19811_1721435447.png",Rádio Folha 100.3 FM
+https://cc6.streammaximum.com/proxy/radiofolha/stream
